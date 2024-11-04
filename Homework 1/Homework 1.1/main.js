@@ -1,0 +1,27 @@
+let a = 'hello';
+let b = 'owu';
+let c = 'com';
+let e = 'ua';
+let f = 1;
+let g = 10;
+let h = -999;
+let i = 123;
+let j = 3.14;
+let k = 2.7;
+let l = 16;
+let m = true;
+let n = false;
+
+console.log(a);
+console.log(b);
+console.log(c);
+console.log(e);
+console.log(f);
+console.log(g);
+console.log(h);
+console.log(i);
+console.log(j);
+console.log(k);
+console.log(l);
+console.log(m);
+console.log(n);
